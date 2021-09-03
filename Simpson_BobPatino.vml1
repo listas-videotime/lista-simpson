@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vtml-list>
 	<vtml-mediaitem>
-		<vtml-itemid>1</vtml-itemid>
 		<vtml-itemname>T1 E12 Krusty va a la cárcel</vtml-itemname>    
 		<vtml-itemcover>https://raw.githubusercontent.com/listas-videotime/lista-simpson/main/Robert_Terwilliger.png</vtml-itemcover>
 		<vtml-itemurl>https://archive.org/download/bobpatino/SIMPSON_T1_E12.mp4</vtml-itemurl>
@@ -9,7 +8,6 @@
 		<vtml-itemcategory>Capitulos de Bob Patiño</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>2</vtml-itemid>
 		<vtml-itemname>T3 E21 El viudo negro</vtml-itemname>    
 		<vtml-itemcover>https://raw.githubusercontent.com/listas-videotime/lista-simpson/main/Robert_Terwilliger.png</vtml-itemcover>
 		<vtml-itemurl>https://archive.org/download/bobpatino/SIMPSON_T3_E21.mp4</vtml-itemurl>
@@ -17,7 +15,6 @@
 		<vtml-itemcategory>Capitulos de Bob Patiño</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>3</vtml-itemid>
 		<vtml-itemname>T5 E2 Cabo de miedosos</vtml-itemname>    
 		<vtml-itemcover>https://raw.githubusercontent.com/listas-videotime/lista-simpson/main/Robert_Terwilliger.png</vtml-itemcover>
 		<vtml-itemurl>https://archive.org/download/bobpatino/SIMPSON_T5_E2.mp4</vtml-itemurl>
@@ -25,7 +22,6 @@
 		<vtml-itemcategory>Capitulos de Bob Patiño</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>4</vtml-itemid>
 		<vtml-itemname>T6 E5 El regreso de Bob Patiño</vtml-itemname>    
 		<vtml-itemcover>https://raw.githubusercontent.com/listas-videotime/lista-simpson/main/Robert_Terwilliger.png</vtml-itemcover>
 		<vtml-itemurl>https://archive.org/download/bobpatino/SIMPSON_T6_E5.mp4</vtml-itemurl>
@@ -33,7 +29,6 @@
 		<vtml-itemcategory>Capitulos de Bob Patiño</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>5</vtml-itemid>
 		<vtml-itemname>T7 E9 La última carcajada de Bob Patiño</vtml-itemname>    
 		<vtml-itemcover>https://raw.githubusercontent.com/listas-videotime/lista-simpson/main/Robert_Terwilliger.png</vtml-itemcover>
 		<vtml-itemurl>https://archive.org/download/bobpatino/SIMPSON_T7_E9.mp4</vtml-itemurl>
@@ -41,7 +36,6 @@
 		<vtml-itemcategory>Capitulos de Bob Patiño</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>6</vtml-itemid>
 		<vtml-itemname>T8 E16 El hermano de otra serie</vtml-itemname>    
 		<vtml-itemcover>https://raw.githubusercontent.com/listas-videotime/lista-simpson/main/Robert_Terwilliger.png</vtml-itemcover>
 		<vtml-itemurl>https://archive.org/download/bobpatino/SIMPSON_T8_E16.mp4</vtml-itemurl>
@@ -49,7 +43,6 @@
 		<vtml-itemcategory>Capitulos de Bob Patiño</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>7</vtml-itemid>
 		<vtml-itemname>T12 E13 El día de la muerte de la comedia</vtml-itemname>    
 		<vtml-itemcover>https://raw.githubusercontent.com/listas-videotime/lista-simpson/main/Robert_Terwilliger.png</vtml-itemcover>
 		<vtml-itemurl>https://archive.org/download/bobpatino/SIMPSON_T12_E13.mp4</vtml-itemurl>
@@ -57,7 +50,6 @@
 		<vtml-itemcategory>Capitulos de Bob Patiño</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>8</vtml-itemid>
 		<vtml-itemname>T14 E6 El gran detective criminal</vtml-itemname>    
 		<vtml-itemcover>https://raw.githubusercontent.com/listas-videotime/lista-simpson/main/Robert_Terwilliger.png</vtml-itemcover>
 		<vtml-itemurl>https://archive.org/download/bobpatino/SIMPSON_T14_E6.mp4</vtml-itemurl>
@@ -65,7 +57,6 @@
 		<vtml-itemcategory>Capitulos de Bob Patiño</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>9</vtml-itemid>
 		<vtml-itemname>T17 E8 Bob el italiano</vtml-itemname>    
 		<vtml-itemcover>https://raw.githubusercontent.com/listas-videotime/lista-simpson/main/Robert_Terwilliger.png</vtml-itemcover>
 		<vtml-itemurl>https://archive.org/download/bobpatino/SIMPSON_T17_E8.mp4</vtml-itemurl>
@@ -73,7 +64,6 @@
 		<vtml-itemcategory>Capitulos de Bob Patiño</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>10</vtml-itemid>
 		<vtml-itemname>T19 E8 Funeral para un enemigo</vtml-itemname>    
 		<vtml-itemcover>https://raw.githubusercontent.com/listas-videotime/lista-simpson/main/Robert_Terwilliger.png</vtml-itemcover>
 		<vtml-itemurl>https://archive.org/download/bobpatino/SIMPSON_T19_E8.mp4</vtml-itemurl>
@@ -81,7 +71,6 @@
 		<vtml-itemcategory>Capitulos de Bob Patiño</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>11</vtml-itemid>
 		<vtml-itemname>T21 E22 El buen Vecino</vtml-itemname>    
 		<vtml-itemcover>https://raw.githubusercontent.com/listas-videotime/lista-simpson/main/Robert_Terwilliger.png</vtml-itemcover>
 		<vtml-itemurl>https://archive.org/download/bobpatino/SIMPSON_T21_E22.mp4</vtml-itemurl>
@@ -89,7 +78,6 @@
 		<vtml-itemcategory>Capitulos de Bob Patiño</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>12</vtml-itemid>
 		<vtml-itemname>T25 E13 El hombre que crecio demasiado</vtml-itemname>    
 		<vtml-itemcover>https://raw.githubusercontent.com/listas-videotime/lista-simpson/main/Robert_Terwilliger.png</vtml-itemcover>
 		<vtml-itemurl>https://archive.org/download/bobpatino/SIMPSON_T25_E13.mp4</vtml-itemurl>
@@ -97,7 +85,6 @@
 		<vtml-itemcategory>Capitulos de Bob Patiño</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>13</vtml-itemid>
 		<vtml-itemname>T29 E9 El niño perdido</vtml-itemname>    
 		<vtml-itemcover>https://raw.githubusercontent.com/listas-videotime/lista-simpson/main/Robert_Terwilliger.png</vtml-itemcover>
 		<vtml-itemurl>https://archive.org/download/bobpatino/SIMPSON_T29_E9.mp4</vtml-itemurl>
@@ -105,7 +92,6 @@
 		<vtml-itemcategory>Capitulos de Bob Patiño</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>14</vtml-itemid>
 		<vtml-itemname>T31 E10 Bobby, hace frío afuera</vtml-itemname>    
 		<vtml-itemcover>https://raw.githubusercontent.com/listas-videotime/lista-simpson/main/Robert_Terwilliger.png</vtml-itemcover>
 		<vtml-itemurl>https://archive.org/download/bobpatino/SIMPSON_T31_E10.mp4</vtml-itemurl>
